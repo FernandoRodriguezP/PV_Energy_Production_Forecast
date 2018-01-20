@@ -10,5 +10,5 @@ Different models based on neural networks have been developed as well as a mathe
 
 ## Documentation
 
-Documentation is available [here](https://ebuah.uah.es/dspace/bitstream/handle/10017/28130/TFG-Rodr%C3%ADguez-Paler-2017.pdf).
+The full project is available [here](https://ebuah.uah.es/dspace/bitstream/handle/10017/28130/TFG-Rodr%C3%ADguez-Paler-2017.pdf).
 
